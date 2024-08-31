@@ -5,7 +5,7 @@ TUTORIAL GITHUB PAGE: https://github.com/adrianhajdin/aora
 
 Followed a YouTube tutorial to create a full-stack mobile application using React-Native. 
 
-Learned how to utilize React-Native, NativeWindCSS, Ecpo-Go, AppWrite, and write in JavaScript. 
+Learned how to utilize React-Native, NativeWindCSS, Expo-Go, AppWrite, and program in JavaScript. 
 Features:
 Front End:
 - Welcome/Starting Page
